@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 46,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, Arlette Saenz, Kayla Tausche",
+            "title": "Biden blocks Japan’s Nippon from taking over US Steel - CNN",
+            "description": "President Joe Biden said Friday he is blocking a $14.3 billion acquisition of US Steel by Japan’s Nippon Steel, marking a significant use of executive authority in the closing days of his administration.",
+            "url": "https://www.cnn.com/2025/01/03/business/biden-blocks-us-nippon-steel-takeover/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24248738769433.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-03T16:11:00Z",
+            "content": "President Joe Biden said Friday he is blocking a $14.3 billion acquisition of US Steel by Japans Nippon Steel, marking a significant use of executive authority in the closing days of his administrati… [+9378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ford reports best annual U.S. sales since 2019 - CNBC",
+            "description": "Both General Motors and Ford Motor on Friday reported their best annual U.S. new vehicle sales since 2019.",
+            "url": "https://www.cnbc.com/2025/01/03/ford-2024-us-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108066856-1732280842925-gettyimages-2185296756-AFP_36MY9XM.jpeg?v=1735920425&w=1920&h=1080",
+            "publishedAt": "2025-01-03T15:54:03Z",
+            "content": "DETROIT Both General Motors and Ford Motor on Friday reported their best annual U.S. new vehicle sales since 2019, prior to impacts from the coronavirus pandemic and yearslong supply chain problems.\r… [+2635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Manya Saini and Niket  Nishant",
+            "title": "Wells Fargo names Citi 'dominant pick', predicts stock to double in three years - Yahoo Finance",
+            "description": "(Reuters) -Citigroup's stock could double in value over the next three years as profits surge, expenses moderate, and the \"most significant\" reorganization...",
+            "url": "https://finance.yahoo.com/news/wells-fargo-names-citi-dominant-155141058.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/75029be2d3197319f91725a69a7b536b",
+            "publishedAt": "2025-01-03T15:51:41Z",
+            "content": "By Manya Saini and Niket Nishant\r\n(Reuters) -Citigroup's stock could double in value over the next three years as profits surge, expenses moderate, and the \"most significant\" reorganization in five d… [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Wesley Yin-Poole",
+            "title": "Apple Agrees to Pay $95 Million — or About 9 Hours of Profit — to Settle Siri 'Listening' Class Action Lawsuit - IGN",
+            "description": "Apple has agreed to pay $95 million to settle a lawsuit after it was accused of eavesdropping via virtual assistant Siri.",
+            "url": "https://www.ign.com/articles/apple-agrees-to-pay-95-million-or-about-9-hours-of-profit-to-settle-siri-listening-class-action-lawsuit",
+            "urlToImage": "https://assets-prd.ignimgs.com/2025/01/03/siri-1735915913131.jpg?width=1280",
+            "publishedAt": "2025-01-03T14:56:10Z",
+            "content": "Apple has agreed to pay $95 million to settle a lawsuit after it was accused of eavesdropping via virtual assistant Siri.\r\nThe lawsuit alleged Siri can be accidentally activated and thus record custo… [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia Stock Shows Resilience Amid Tech Sector Stumble. What Drives It Higher. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-stock-price-today-6d27b8a2",
+            "urlToImage": null,
+            "publishedAt": "2025-01-03T14:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Ashima Grover",
+            "title": "HT Exclusive: Turo car rental app used in New Orleans, Las Vegas attacks ‘outraged by the misuse’ of marketplace - Hindustan Times",
+            "description": "The car rental app Turo issued a follow-up statement regarding the background checks of suspects Shamsud Din Jabbar and Matthew Livelsberger.",
+            "url": "https://www.hindustantimes.com/world-news/us-news/ht-exclusive-turo-car-rental-app-used-in-new-orleans-las-vegas-attacks-outraged-by-the-misuse-of-marketplace-101735910759267.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/01/03/1600x900/uro_app_-_new_orleans_and_las_vegas_attacks_1735828890614_1735914553314.jpg",
+            "publishedAt": "2025-01-03T14:31:51Z",
+            "content": "Two fatal tragedies shook America on New Years Day. With investigations still underway in the New Orleans and Las Vegas attacks, officials have already unmasked the suspects in both cases by identify… [+5225 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sean O'Kane",
+            "title": "Rivian wraps 2024 with more than 50,000 EVs delivered - TechCrunch",
+            "description": "Rivian finished last year having delivered 51,579 electric SUVs, trucks, and vans, more than triple the number it shipped to customers in 2023. The",
+            "url": "https://techcrunch.com/2025/01/03/rivian-wraps-2024-with-more-than-50000-evs-delivered/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/rivian-trucks-Getty.jpg?resize=1200,800",
+            "publishedAt": "2025-01-03T14:16:16Z",
+            "content": "Rivian finished last year having delivered 51,579 electric SUVs, trucks, and vans, more than triple the number it shipped to customers in 2023. \r\nThe company announced Friday that it also built 49,47… [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Treasury.gov"
+            },
+            "author": null,
+            "title": "U.S. Department of the Treasury Releases Final Rules for Clean Hydrogen Production Tax Credit - Treasury",
+            "description": "Final rules include significant changes and flexibilities to provide investment certainty and drive deployment of clean hydrogenWASHINGTON – Today, the U.S. Department of the Treasury (Treasury) and Internal Revenue Service (IRS) released final rules for the …",
+            "url": "https://home.treasury.gov/news/press-releases/jy2768",
+            "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+            "publishedAt": "2025-01-03T13:45:00Z",
+            "content": "Final rules include significant changes and flexibilities to provide investment certainty and drive deployment of clean hydrogen\r\nWASHINGTON Today, the U.S. Department of the Treasury (Treasury) and … [+11170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "KIT NORTON, Investor's Business Daily",
+            "title": "$840 Million Government Contract For Nuclear Power 'Positive' For Future Deals - Investor's Business Daily",
+            "description": "Nuclear stocks soared Thursday after Constellation Energy announced a 10-year contract with the federal government.",
+            "url": "https://www.investors.com/news/nuclear-government-contract-constellation-energy-sp-500-positive-for-future-deals/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-ConstellationEnergy-plant-01-company.jpg",
+            "publishedAt": "2025-01-03T13:26:00Z",
+            "content": "Constellation Energy (CEG), a top nuclear energy provider, received several bullish analyst comments after the S&amp;P 500 component announced a 10-year, $840 million contract with the U.S. General S… [+3568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "DPA",
+            "title": "Trump calls on Britain to dismantle North Sea wind turbines - Yahoo! Voices",
+            "description": "US President-elect Donald Trump called on Friday for the United Kingdom to dismantle its wind turbines in the North Sea in response to a decision by a US oil...",
+            "url": "https://www.yahoo.com/news/trump-calls-britain-dismantle-north-131718727.html",
+            "urlToImage": "https://media.zenfs.com/en/dpa_international_526/666398dc385326a9d2db7a04578ee23a",
+            "publishedAt": "2025-01-03T13:17:18Z",
+            "content": "US President-elect Donald Trump called on Friday for the United Kingdom to dismantle its wind turbines in the North Sea in response to a decision by a US oil company to leave the oil-rich region.\r\n\"T… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/michelle-bocanegra",
+            "title": "NYPD: Woman charged in murder of postal worker after dispute over the line at a deli - Gothamist",
+            "description": "Jaia Cruz, 24, has been charged with 2nd-degree murder and may face federal charges.",
+            "url": "https://gothamist.com/news/nypd-woman-charged-in-murder-of-postal-worker-after-dispute-over-the-line-at-a-deli",
+            "urlToImage": "https://api-prod.gothamist.com/images/349043/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-01-03T13:13:00Z",
+            "content": "Police have charged a woman with second-degree murder after allegedly stabbing an on-duty postal worker in Harlem over their place in line at a deli, according to officials.\r\nPolice said 24-year-old … [+680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "ED CARSON, Investor's Business Daily",
+            "title": "Dow Jones Futures Rise; Market Rally Near Breaking Point After Tesla, Apple Tumble - Investor's Business Daily",
+            "description": "Several leaders flashed bullish signals, but it's not a great time for new buys.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-key-level-2025-tesla-apple/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/09/A1-091123-teslaprices-shutt.jpg",
+            "publishedAt": "2025-01-03T13:10:00Z",
+            "content": "Dow Jones futures rose modestly early Friday, along with S&amp;P 500 futures and Nasdaq futures.\r\nThe stock market rally extended a year-end losing streak into 2025 with modest losses Thursday after … [+6972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Foreign phone sales plunge 47% in China, spelling trouble for Apple - CNBC",
+            "description": "Apple is under pressure in China as a result of rising competition from domestic brands, in particular Huawei.",
+            "url": "https://www.cnbc.com/2025/01/03/foreign-phone-sales-plunge-47percent-in-china-spelling-trouble-for-apple.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081788-1735903105087-gettyimages-2178118061-iPhone_16_Popular.jpeg?v=1735903149&w=1920&h=1080",
+            "publishedAt": "2025-01-03T12:23:01Z",
+            "content": "Sales of foreign phone brands in China plunged in November, according to official data released Friday, underscoring further pressure on Apple, the biggest international handset vendor in the country… [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Katie Martin",
+            "title": "2025 will be the year of investing dangerously - Financial Times",
+            "description": "Investors have no clue what the returning President Trump will actually do",
+            "url": "https://www.ft.com/content/12475330-4e8c-48ce-9ff2-c67c438ea065",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F669d1ff4-8f7d-4b84-bf8e-666a848f4db0.jpg?source=next-barrier-page",
+            "publishedAt": "2025-01-03T12:21:43Z",
+            "content": "The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li></li>FT Digital Edition<li></li>Global news &amp; anal… [+86 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "The stock market has entered the danger zone. How one strategist recommends piloting around it. - MarketWatch",
+            "description": "The volatility will provide an opportunity to buy risk assets, says HSBC",
+            "url": "https://www.marketwatch.com/story/the-stock-market-has-entered-the-danger-zone-how-one-strategist-recommends-piloting-around-it-5106ad65",
+            "urlToImage": "https://images.mktw.net/im-53465408/social",
+            "publishedAt": "2025-01-03T11:42:00Z",
+            "content": "Due to a technical error, the emailed version of this newsletter did not get published at the intended time. We apologize for any inconvenience.A weak end to 2024 for stocks has bled into 2025. The S… [+63 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ASSOCIATED PRESS",
+            "title": "Boeing still needs a culture change to put safety above profits, according to the head of the FAA - The Associated Press",
+            "description": "A year after a panel blew out of a Boeing 737 Max during flight, the nation’s top aviation regulator says the company needs to change its culture and put safety above profits. Federal Aviation Administration chief Mike Whitaker made the comment in an online p…",
+            "url": "https://apnews.com/article/faa-safety-culture-change-boeing-c2a0af4bfbe26a53d5bb1b11868a1d89",
+            "urlToImage": "https://dims.apnews.com/dims4/default/00e02ab/2147483647/strip/true/crop/4096x2304+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F1b%2F1d3a03fa860fd4719187c18eab78%2F535458845f324a718503da9b4727fa73",
+            "publishedAt": "2025-01-03T11:32:00Z",
+            "content": "A year after a panel blew out of a Boeing 737 Max during flight, the nations top aviation regulator says the company needs a fundamental cultural shift to put safety and quality above profits.\r\nMike … [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Sidhartha Shukla",
+            "title": "BlackRock’s Bitcoin ETF Posts Record Outflow After Banner Year - Bloomberg",
+            "description": "Investors yanked a net $333 million from BlackRock Inc.’s iShares Bitcoin Trust ETF (IBIT) on Thursday, the most withdrawn from the record-breaking fund since its launch.",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-03/blackrock-s-bitcoin-btc-etf-posts-highest-outflow-after-banner-year",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyA606uuqhG0/v1/1200x772.jpg",
+            "publishedAt": "2025-01-03T11:05:42Z",
+            "content": "Investors yanked a net $333 million from BlackRock Inc.s iShares Bitcoin Trust ETF (IBIT) on Thursday, the most withdrawn from the record-breaking fund since its launch.\r\nThe fund also suffered a thi… [+98 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Douglas B. Laney",
+            "title": "Understanding And Preparing For The Seven Levels Of AI Agents - Forbes",
+            "description": "Agentic AI will be a critical differentiating capability. This framework can help business executives define, understand, and prepare for artificial intelligence agents.",
+            "url": "https://www.forbes.com/sites/douglaslaney/2025/01/03/understanding-and-preparing-for-the-seven-levels-of-ai-agents/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6777ab8ffed9ab85cf696f21/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-01-03T09:31:50Z",
+            "content": "AI agent handling various business activities\r\nCustom generated image\r\nAs the calendar flips to the second quarter of the century, conversations about the transformative potential of artificial intel… [+11470 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eliza Relman",
+            "title": "The tax that's stopping older homeowners from selling their valuable properties - Business Insider",
+            "description": "Some homeowners who've seen their home values soar are concerned a federal capital-gains tax on home sales will eat into their retirement.",
+            "url": "https://www.businessinsider.com/older-homeowners-capital-gains-tax-home-sales-retirement-2025-1",
+            "urlToImage": "https://i.insider.com/677711059de00e389eb4310f?width=1200&format=jpeg",
+            "publishedAt": "2025-01-03T09:00:00Z",
+            "content": "Many older homeowners have benefited from soaring home prices in recent years, but as they look to cash in and downsize, some are discouraged by a federal tax that applies to a growing number of home… [+5657 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Yuan’s Rally Versus Peers Suggests China’s Defense Can Backfire - Bloomberg",
+            "description": "China’s ironclad grip on the onshore yuan is leading to an unintended side effect.",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-03/yuan-s-rally-versus-peers-suggests-china-s-defense-can-backfire",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.lGe5e2gMMk/v0/1200x800.jpg",
+            "publishedAt": "2025-01-03T08:55:06Z",
+            "content": "Chinas ironclad grip on the onshore yuan is leading to an unintended side effect. \r\nIn a potential pitfall for exporters, the yuan has surged to the strongest level since October 2022 versus a basket… [+88 chars]"
+        }
+    ]
+}
