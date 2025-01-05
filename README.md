@@ -1,6 +1,8 @@
 Latest USA News APP
 
 Archicture pattern: MVVM-C
+
+
 Design Patten: Dependency Injection
 
 Flow Diagram:
