@@ -1,9 +1,9 @@
-Latest USA News APP
+App Name: Latest USA News APP
 
-Archicture pattern: MVVM-C
+Architecture pattern: MVVM-C
 
 
-Design Patten: Dependency Injection
+Design Pattern: Dependency Injection
 
 Flow Diagram:
 
